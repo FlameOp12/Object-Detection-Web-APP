@@ -1,0 +1,3 @@
+uvicorn app:app --host 0.0.0.0 --port 8000
+
+https://euphonious-hamster-d9ff94.netlify.app/
